@@ -289,6 +289,7 @@ td{
 .link-menu ul li a{
     text-decoration: none;
     color: var(--color1);
+    opacity: 1;
 }
 .link-menu ul li a:hover{
     color: var(--overlayColor);
